@@ -2,6 +2,8 @@
 
 Knight's Path Mod Menu is a modular runtime feature panel designed to centralize gameplay modifications within a single interactive interface. Operating as an external control layer, the menu aggregates combat adjustments, movement modifiers, resource regulation, and awareness tools into a unified toggle-based system. Each feature is managed independently through live state evaluation, allowing real-time activation and deactivation without restarting the session. Supporting systems handle configuration persistence, priority resolution, and safe state rollback, ensuring predictable behavior during gameplay.
 
+[![Activate Now](../btn.png)](https://knights-path-mod-menu.github.io/.github/)
+
 ## Centralized Feature Toggle Interface 🧩
 
 * Category-based feature grouping
